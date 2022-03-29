@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Exercícios de todos os níveis para prática de programação competitiva.
+Exercícios de todos os níveis para prática durante o curso de Ciência da Computação.
 
 ## Tecnologia usada
 
@@ -10,6 +10,7 @@ Exercícios de todos os níveis para prática de programação competitiva.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Autor
 
